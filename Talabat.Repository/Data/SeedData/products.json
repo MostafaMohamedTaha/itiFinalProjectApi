@@ -1,0 +1,277 @@
+[
+    {
+        "Name": "Air Conditioner Brand LG",
+        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "Price": 2200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Air Conditioner Fresh",
+        "Description": "Powerful air conditioner suitable for large rooms.",
+        "Price": 15000,
+        "PictureUrl": "images/products/air_conditioner1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Fridge 14 ft Fresh",
+        "Description": "Spacious and energy-efficient refrigerator with advanced cooling technology.",
+        "Price": 12000,
+        "PictureUrl": "images/products/fridge1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Gas Cooker Fresh",
+        "Description": "Modern gas cooker with multiple burners and sleek design.",
+        "Price": 3000,
+        "PictureUrl": "images/products/gas_cooker1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Ventilation Fresh",
+        "Description": "Efficient ventilation system for maintaining fresh air circulation in your home.",
+        "Price": 1500,
+        "PictureUrl": "images/products/ventilation1.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Fan Fresh",
+        "Description": "High-speed fan with adjustable settings for optimal air circulation.",
+        "Price": 1500,
+        "PictureUrl": "images/products/fan1.png",
+        "ProductTypeId": 5,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Blender LG",
+        "Description": "Versatile blender for making smoothies, shakes, and purees.",
+        "Price": 1800,
+        "PictureUrl": "images/products/blender1.png",
+        "ProductTypeId": 6,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Washing Machine Toshiba",
+        "Description": "Efficient washing machine with various wash programs and quick wash options.",
+        "Price": 4500,
+        "PictureUrl": "images/products/washing_machine1.png",
+        "ProductTypeId": 7,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Dishwasher Samsung",
+        "Description": "Convenient dishwasher for easy and effective dish cleaning.",
+        "Price": 3500,
+        "PictureUrl": "images/products/dishwasher1.png",
+        "ProductTypeId": 8,
+        "ProductBrandId": 2
+    },
+
+    {
+        "Name": "Washing Machine Sharp",
+        "Description": "Efficient washing machine with various wash programs and quick wash options.",
+        "Price": 20000,
+        "PictureUrl": "images/products/washing_machine2.png",
+        "ProductTypeId": 7,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Dishwasher Fresh",
+        "Description": "Convenient dishwasher for easy and effective dish cleaning.",
+        "Price": 6500,
+        "PictureUrl": "images/products/dishwasher2.png",
+        "ProductTypeId": 8,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Air Conditioner Sharp",
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porttitor congue massa.",
+        "Price": 22000,
+        "PictureUrl": "images/products/air_conditioner2.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Fridge Zanussi",
+        "Description": "Energy-efficient refrigerator with adjustable shelves and spacious compartments.",
+        "Price": 12000,
+        "PictureUrl": "images/products/fridge2.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Gas Cooker unionaire",
+        "Description": "Reliable gas cooker with durable burners and precise temperature control.",
+        "Price": 20000,
+        "PictureUrl": "images/products/gas_cooker2.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 8
+    },
+    {
+        "Name": "Ventilation universal ",
+        "Description": "Powerful ventilation system with adjustable settings for optimal air circulation.",
+        "Price": 1800,
+        "PictureUrl": "images/products/ventilation2.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Fan Toshiba",
+        "Description": "Modern fan with multiple speed settings and oscillation for better air distribution.",
+        "Price": 1600,
+        "PictureUrl": "images/products/fan2.png",
+        "ProductTypeId": 5,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Blender Samsung",
+        "Description": "Durable blender with multiple blending options and easy-to-clean components.",
+        "Price": 2000,
+        "PictureUrl": "images/products/blender2.png",
+        "ProductTypeId": 6,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Water Heater Fresh",
+        "Description": "Efficient water heater with quick heating technology and adjustable temperature settings.",
+        "Price": 4000,
+        "PictureUrl": "images/products/water_heater1.png",
+        "ProductTypeId": 9,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Air Purifier LG",
+        "Description": "Advanced air purifier with HEPA filter for cleaner and fresher indoor air.",
+        "Price": 2500,
+        "PictureUrl": "images/products/air_purifier1.png",
+        "ProductTypeId": 10,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Microwave Sharp",
+        "Description": "High-performance microwave with multiple cooking functions and sleek design.",
+        "Price": 1800,
+        "PictureUrl": "images/products/microwave1.png",
+        "ProductTypeId": 11,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Television Samsung 65in",
+        "Description": "Ultra HD smart television with immersive display and built-in streaming services.",
+        "Price": 15000,
+        "PictureUrl": "images/products/television1.png",
+        "ProductTypeId": 12,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Vacuum Cleaner Toshiba",
+        "Description": "Powerful vacuum cleaner with multiple attachments for thorough cleaning.",
+        "Price": 3000,
+        "PictureUrl": "images/products/vacuum_cleaner1.png",
+        "ProductTypeId": 13,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Oven Fresh",
+        "Description": "Spacious oven with multiple cooking functions and precise temperature control.",
+        "Price": 5000,
+        "PictureUrl": "images/products/oven1.png",
+        "ProductTypeId": 14,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Heater Unionaire",
+        "Description": "Reliable heater with adjustable heat settings and automatic temperature control.",
+        "Price": 2000,
+        "PictureUrl": "images/products/heater1.png",
+        "ProductTypeId": 9,
+        "ProductBrandId": 8
+    },
+    {
+        "Name": "Water Dispenser Fresh",
+        "Description": "Convenient water dispenser with hot and cold water options and energy-saving features.",
+        "Price": 1200,
+        "PictureUrl": "images/products/water_dispenser1.png",
+        "ProductTypeId": 15,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Air Fryer LG",
+        "Description": "Advanced air fryer for healthier frying with adjustable cooking presets.",
+        "Price": 2500,
+        "PictureUrl": "images/products/air_fryer1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Refrigerator Sharp",
+        "Description": "Energy-efficient refrigerator with advanced cooling technology and adjustable compartments.",
+        "Price": 8000,
+        "PictureUrl": "images/products/refrigerator1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Dishwasher Toshiba 16 L",
+        "Description": "Efficient dishwasher with multiple wash programs and energy-saving features.",
+        "Price": 4000,
+        "PictureUrl": "images/products/dishwasher3.png",
+        "ProductTypeId": 8,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Blender Fresh",
+        "Description": "High-quality juicer for extracting fresh and nutritious juices from fruits and vegetables.",
+        "Price": 1800,
+        "PictureUrl": "images/products/blender3.png",
+        "ProductTypeId": 6,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Rice Cooker Fresh",
+        "Description": "Convenient rice cooker with multiple cooking functions and easy-to-clean components.",
+        "Price": 1000,
+        "PictureUrl": "images/products/rice_cooker1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Air Cooler Carrier",
+        "Description": "Powerful air cooler for effective cooling in hot and dry climates.",
+        "Price": 15000,
+        "PictureUrl": "images/products/air_cooler1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 7
+    },
+    {
+        "Name": "Iron Universal",
+        "Description": "Efficient iron with steam function and adjustable temperature settings for different fabric types.",
+        "Price": 800,
+        "PictureUrl": "images/products/iron1.png",
+        "ProductTypeId": 16,
+        "ProductBrandId": 9
+    },
+
+    {
+        "Name": "Air Conditioner Fresh",
+        "Description": "Powerful air conditioner suitable for large rooms with energy-saving features.",
+        "Price": 20000,
+        "PictureUrl": "images/products/air_conditioner3.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Coffee Maker Sharp",
+        "Description": "Convenient coffee maker with multiple brewing options and automatic shut-off feature.",
+        "Price": 2000,
+        "PictureUrl": "images/products/coffee_maker1.png",
+        "ProductTypeId": 17,
+        "ProductBrandId": 4
+    }
+]
+    

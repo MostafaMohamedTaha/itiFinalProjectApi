@@ -1,0 +1,51 @@
+[
+    {
+        "Name": "Air conditioner"
+    },
+    {
+        "Name": "Refrigerator"
+    },
+    {
+        "Name": "Cooker"
+    },
+    {
+        "Name": "Ventilation"
+    },
+    {
+        "Name": "Fan"
+    },
+    {
+        "Name": "Blender"
+    },
+    {
+        "Name": "Washing Machine"
+    },
+    {
+        "Name": "Dishwasher"
+    },
+    {
+        "Name": "Water heater"
+    },
+    {
+        "Name": "Air Purifier"
+    },
+    {
+        "Name": "Microwave"
+    },
+    {
+        "Name": "Television"
+    },
+    {
+        "Name": "Vacuum Cleaner"
+    },
+    {
+        "Name": "Oven"
+    },
+    {
+        "Name": "Water Dispenser"
+    },
+    {
+        "Name": "Iron"
+    },
+    { "Name": "Coffee Maker" }
+]
