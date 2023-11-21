@@ -12,15 +12,23 @@ namespace Talabat.APIs.Controllers
 {
     public class PaymentsController : BaseApiController
     {
+        #region params Pay|Log|webhook
+
         private readonly IPaymentService _paymentService;
         private readonly ILogger<PaymentsController> _logger;
-        private const string _webhook = "whsec_67aaa1c3ba4a47402244c598e626eb7427bc757aea1f38bf35ecd8fd36c83849";
+        private const string _webhook = "whsec_cbd180c77e319184923857ecbfc0f355ad9bd64c93ea14e1af8a9f041b825274";
+        #endregion
 
+        #region ctor
         public PaymentsController(IPaymentService paymentService, ILogger<PaymentsController> logger)
         {
             _paymentService = paymentService;
             this._logger = logger;
         }
+        #endregion
+
+        #region createIntent
+
         //[Authorize]
         [HttpPost("{basketid}")]
         public async Task<ActionResult<CustomerBasket>> CreateOrUpdatePaymentIntent(string basketId)
@@ -31,6 +39,10 @@ namespace Talabat.APIs.Controllers
 
             return Ok(basket);
         }
+        #endregion
+
+        #region webhook
+
         [HttpPost("webhook")]
         public async Task<ActionResult> StripeWebHook()
         {
@@ -52,6 +64,7 @@ namespace Talabat.APIs.Controllers
             }
             return Ok();
         }
+        #endregion
     }
 
 }

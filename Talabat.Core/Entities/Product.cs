@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Talabat.Core.Entities
+﻿namespace Talabat.Core.Entities
 {
     public class Product : BaseEntity
     {
@@ -13,7 +6,7 @@ namespace Talabat.Core.Entities
         public string Description { get; set; }
         public string PictureUrl { get; set; }
         public decimal Price { get; set; }
-
+        public int? Quantity { get; set; }
         //[ForeignKey("ProductType")]
         public int ProductTypeId { get; set; }
         public ProductType ProductType { get; set; }

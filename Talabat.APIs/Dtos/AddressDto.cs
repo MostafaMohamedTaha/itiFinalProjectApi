@@ -18,5 +18,6 @@ namespace Talabat.APIs.Dtos
         [Required]
 
         public string Street { get; set; }
+
     }
 }

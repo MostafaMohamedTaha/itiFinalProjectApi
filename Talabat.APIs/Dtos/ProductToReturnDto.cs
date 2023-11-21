@@ -1,6 +1,4 @@
-﻿using Talabat.Core.Entities;
-
-namespace Talabat.APIs.Dtos
+﻿namespace Talabat.APIs.Dtos
 {
     // DTO : Data Transfer Object 
     public class ProductToReturnDto
@@ -10,7 +8,7 @@ namespace Talabat.APIs.Dtos
         public string Description { get; set; }
         public string PictureUrl { get; set; }
         public decimal Price { get; set; }
-
+        public int? Quantity { get; set; }
         public int ProductTypeId { get; set; }
         public string ProductType { get; set; }
 
