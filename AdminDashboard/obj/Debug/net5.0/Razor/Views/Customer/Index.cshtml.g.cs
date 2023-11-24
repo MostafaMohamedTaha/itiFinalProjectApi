@@ -68,8 +68,15 @@ using Talabat.Core.Entities.Order_Aggregate;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 9 "D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\Views\_ViewImports.cshtml"
+using Talabat.APIs.Helpers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"139783a969d034673fac2684623f20f05525c76102918addb6aa4973e317cef3", @"/Views/Customer/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"49a3d07ae9cd9bda5b7eea5e8c26972763715aa295a0db0ba84422c02f562ee9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"ba837d043e028334673b6f20614f40186ee0ac6769c91a2ea93ef552491661b3", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Customer_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<UserViewModel>>
     #nullable disable
@@ -202,7 +209,7 @@ using Talabat.Core.Entities.Order_Aggregate;
 #line hidden
 #nullable disable
             WriteLiteral("</td>\r\n\t\t\t\t\t\t<td>\r\n\t\t\t\t\t\t\t");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "139783a969d034673fac2684623f20f05525c76102918addb6aa4973e317cef310044", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "139783a969d034673fac2684623f20f05525c76102918addb6aa4973e317cef310277", async() => {
                 WriteLiteral("<i class=\"fas fa-pen\"></i> Manage Roles");
             }
             );
@@ -262,7 +269,7 @@ else
 #nullable disable
             DefineSection("Scripts", async() => {
                 WriteLiteral("\r\n\t");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "139783a969d034673fac2684623f20f05525c76102918addb6aa4973e317cef313414", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "139783a969d034673fac2684623f20f05525c76102918addb6aa4973e317cef313647", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

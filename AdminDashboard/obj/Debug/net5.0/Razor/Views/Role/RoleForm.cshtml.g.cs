@@ -68,8 +68,15 @@ using Talabat.Core.Entities.Order_Aggregate;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 9 "D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\Views\_ViewImports.cshtml"
+using Talabat.APIs.Helpers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae2", @"/Views/Role/RoleForm.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"49a3d07ae9cd9bda5b7eea5e8c26972763715aa295a0db0ba84422c02f562ee9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"ba837d043e028334673b6f20614f40186ee0ac6769c91a2ea93ef552491661b3", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Role_RoleForm : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<RoleFormViewModel>
     #nullable disable
@@ -106,9 +113,9 @@ using Talabat.Core.Entities.Order_Aggregate;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae26574", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae26807", async() => {
                 WriteLiteral("\r\n\t<div class=\"input-group mb-2\">\r\n\t\t");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae26898", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae27131", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -130,7 +137,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n\t\t<div class=\"input-group-append\">\r\n\t\t\t<button type=\"submit\" class=\"btn btn-success\">Add New Role</button>\r\n\t\t</div>\r\n\t</div>\r\n\t");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae28687", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6783eef1c736809d2de43a86890fe8cb6375f1a0fa9f2e20c464db150081dae28920", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();

@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Talabat.Core.Entities;
 using Talabat.Core.Repositories;
 
 namespace AdminDashboard.Controllers
 {
+    //[Authorize]
     public class BrandController : Controller
     {
         private readonly IUnitOfWork unitOfWork;

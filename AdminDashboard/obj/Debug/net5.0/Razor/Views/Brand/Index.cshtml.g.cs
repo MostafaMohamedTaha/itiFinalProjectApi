@@ -68,8 +68,15 @@ using Talabat.Core.Entities.Order_Aggregate;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 9 "D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\Views\_ViewImports.cshtml"
+using Talabat.APIs.Helpers;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd", @"/Views/Brand/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"49a3d07ae9cd9bda5b7eea5e8c26972763715aa295a0db0ba84422c02f562ee9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA256", @"ba837d043e028334673b6f20614f40186ee0ac6769c91a2ea93ef552491661b3", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Brand_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IReadOnlyList<ProductBrand>>
     #nullable disable
@@ -113,7 +120,7 @@ using Talabat.Core.Entities.Order_Aggregate;
 #line hidden
 #nullable disable
             WriteLiteral("<h1>All Brands</h1>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd6547", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd6780", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -170,7 +177,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = new ProductBrand(
 #line hidden
 #nullable disable
             WriteLiteral("</td>\r\n                    <td>\r\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd9689", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd9922", async() => {
                 WriteLiteral("<i class=\"fas fa-trash\"></i> Delete");
             }
             );
@@ -229,7 +236,7 @@ else
 #nullable disable
             DefineSection("Scripts", async() => {
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd13052", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "55e664cbb505f46aa586266beb9f38974c074dd14a93e0bb86383a18167efcfd13285", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

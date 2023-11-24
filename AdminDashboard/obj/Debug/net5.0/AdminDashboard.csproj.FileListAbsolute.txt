@@ -926,11 +926,959 @@ E:\Career\Work\Route\Cycles\Cycle 38\WorkShops\Talabat Admin Dashboard\Data\Tala
 E:\Career\Work\Route\Cycles\Cycle 38\WorkShops\Talabat Admin Dashboard\Data\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Brand\_CreateForm.cshtml.g.cs
 E:\Career\Work\Route\Cycles\Cycle 38\WorkShops\Talabat Admin Dashboard\Data\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
 E:\Career\Work\Route\Cycles\Cycle 38\WorkShops\Talabat Admin Dashboard\Data\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\_SearchForm.cshtml.g.cs
-D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.Development.json
-D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.Development.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.deps.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.exe
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.StaticWebAssets.xml
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.exe
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.deps.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.runtimeconfig.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.runtimeconfig.dev.json
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\mscorlib.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\netstandard.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Console.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Memory.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Web.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Windows.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.Views.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.Views.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AutoMapper.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Humanizer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Stripe.net.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Core.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Repository.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Service.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Core.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Repository.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Service.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.AssemblyReference.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.AssemblyInfoInputs.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.AssemblyInfo.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.CoreCompileInputs.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.MvcApplicationPartsAssemblyInfo.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorAssemblyInfo.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorAssemblyInfo.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\scopedcss\bundle\AdminDashboard.styles.css
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.Manifest.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.Pack.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.AdminDashboard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminDashboard.props
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminDashboard.props
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminDashboard.props
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.xml
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.TagHelpers.input.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.TagHelpers.output.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorCoreGenerate.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Brand\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Brand\_CreateForm.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\_SearchForm.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\CreatEditPartialView.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\RoleForm.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorTargetAssemblyInfo.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorTargetAssemblyInfo.cs
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.Views.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.CopyComplete
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\refint\AdminDashboard.dll
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.pdb
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.genruntimeconfig.cache
+D:\back-end asp.net track (Route)\06 ASP Core API\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\ref\AdminDashboard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.Development.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.deps.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.exe
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.StaticWebAssets.xml
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.exe
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.deps.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.runtimeconfig.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.runtimeconfig.dev.json
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\mscorlib.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\netstandard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Console.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Data.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Memory.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Web.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Windows.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.Views.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.Views.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AutoMapper.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Humanizer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Stripe.net.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Core.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Repository.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Service.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Core.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Repository.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.Service.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.AssemblyReference.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.AssemblyInfoInputs.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.AssemblyInfo.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.CoreCompileInputs.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorAssemblyInfo.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorAssemblyInfo.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\scopedcss\bundle\AdminDashboard.styles.css
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.Manifest.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.Pack.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.AdminDashboard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.build.AdminDashboard.props
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AdminDashboard.props
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AdminDashboard.props
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\staticwebassets\AdminDashboard.StaticWebAssets.xml
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.TagHelpers.input.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.TagHelpers.output.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorCoreGenerate.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Admin\Login.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Brand\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Brand\_CreateForm.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Order\_SearchForm.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\CreatEditPartialView.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Role\RoleForm.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorTargetAssemblyInfo.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.RazorTargetAssemblyInfo.cs
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.Views.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.csproj.CopyComplete
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\refint\AdminDashboard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.pdb
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.genruntimeconfig.cache
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\ref\AdminDashboard.dll
+D:\backend(Route)\06ASPCoreAPI\Talabat.Demo.Solution\AdminDashboard\obj\Debug\net5.0\AdminDashboard.MvcApplicationPartsAssemblyInfo.cs
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.deps.json
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.json
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.runtimeconfig.dev.json
+D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.Development.json
+D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\appsettings.json
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\Talabat.APIs.exe
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.StaticWebAssets.xml
 D:\0p\0121project\Talabat.Demo.Solution-20231107T152725Z-001\Talabat.Demo.Solution\AdminDashboard\bin\Debug\net5.0\AdminDashboard.exe

@@ -16,7 +16,8 @@ namespace AdminDashboard.Models
 
         public IFormFile Image { get; set; }
 
-        public string PictureUrl { get; set; }
+		public int Quantity { get; set; }
+		public string PictureUrl { get; set; }
 
         [Required(ErrorMessage = "Price is Required")]
         [Range(1, 100000)]

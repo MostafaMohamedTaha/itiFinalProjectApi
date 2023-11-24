@@ -1,4 +1,5 @@
 ﻿using AdminDashboard.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,7 @@ using Talabat.Core.Entities.Identity;
 
 namespace AdminDashboard.Controllers
 {
+    //[Authorize]
     public class CustomerController : Controller
     {
         private readonly UserManager<AppUser> userManager;

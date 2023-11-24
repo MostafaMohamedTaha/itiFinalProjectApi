@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Talabat.Core.Entities.Order_Aggregate;
 using Talabat.Core.Repositories;
@@ -6,6 +7,7 @@ using Talabat.Core.Specifications.Orders;
 
 namespace AdminDashboard.Controllers
 {
+    //[Authorize]
 
     public class OrderController : Controller
     {

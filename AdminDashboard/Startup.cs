@@ -1,6 +1,8 @@
 using AdminDashboard.Helpers;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Talabat.APIs.Helpers;
 using Talabat.Core.Entities.Identity;
 using Talabat.Core.Repositories;
 using Talabat.Repository.Data;
@@ -39,6 +42,18 @@ namespace AdminDashboard
             {
                 options.UseSqlServer(Configuration.GetConnectionString("IdentityConnection"));
             });
+           
+            services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
+            services.AddAutoMapper(typeof(MapsProfile));
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+            // Authentication Configuration
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                    .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, options =>
+                    {
+                        options.LoginPath = new PathString("/Admin/Login");
+                        options.AccessDeniedPath = new PathString("/Shared/Error");
+                    });
             services.AddIdentity<AppUser, IdentityRole>(options =>
             {
                 options.Password.RequireDigit = true;
@@ -47,11 +62,8 @@ namespace AdminDashboard
                 options.Password.RequireUppercase = true;
                 options.Password.RequiredLength = 6;
 
-            }).AddEntityFrameworkStores<AppIdentityDbContext>();
-
-            services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
-            services.AddAutoMapper(typeof(MapsProfile));
-
+            }).AddEntityFrameworkStores<AppIdentityDbContext>()
+              .AddTokenProvider<DataProtectorTokenProvider<AppUser>>(TokenOptions.DefaultProvider);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -68,9 +80,12 @@ namespace AdminDashboard
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
+
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
@@ -78,7 +93,7 @@ namespace AdminDashboard
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Admin}/{action=Login}/{id?}");
             });
         }
     }

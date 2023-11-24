@@ -1,5 +1,7 @@
 ﻿using AdminDashboard.Models;
 using AutoMapper;
+using Talabat.APIs.Dtos;
+using Talabat.APIs.Helpers;
 using Talabat.Core.Entities;
 
 namespace AdminDashboard.Helpers

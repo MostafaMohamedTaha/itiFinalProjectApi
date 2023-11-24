@@ -7,8 +7,12 @@ namespace Talabat.Repository.Data
 {
     public class UnitOfWork : IUnitOfWork
     {
+        #region params
+
         private Hashtable _repositories;
         private readonly StoreContext _context;
+        #endregion
+
         #region get data form database
         public UnitOfWork(StoreContext context)
         {
